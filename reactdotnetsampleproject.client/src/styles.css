@@ -1,0 +1,15 @@
+header, footer {
+    background-color: #282c34;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+}
